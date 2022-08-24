@@ -49,3 +49,37 @@ Console.WriteLine("Максимальным является число " + max)
 
 // Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
+/*
+int num;
+
+Console.Write("Введите число: ");
+num = Convert.ToInt32(Console.ReadLine());
+
+if (num % 2==1) // Проверяем число на четность
+            {
+                Console.WriteLine("число нечетное");
+           
+            }
+            else
+            {
+                Console.WriteLine("Число четное");
+            }
+*/
+
+
+// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+/*
+int N;
+
+Console.Write("Введите число: ");
+N = Convert.ToInt32(Console.ReadLine());
+
+int current = 1;
+
+while (current <= N)
+{
+    Console.Write(current + " ");
+    current++;
+}
+*/
