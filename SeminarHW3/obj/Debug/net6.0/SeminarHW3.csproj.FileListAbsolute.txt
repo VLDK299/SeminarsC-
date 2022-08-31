@@ -1,0 +1,15 @@
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.csproj.AssemblyReference.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.AssemblyInfoInputs.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.AssemblyInfo.cs
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.csproj.CoreCompileInputs.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\bin\Debug\net6.0\SeminarHW3.exe
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\bin\Debug\net6.0\SeminarHW3.deps.json
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\bin\Debug\net6.0\SeminarHW3.runtimeconfig.json
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\bin\Debug\net6.0\SeminarHW3.dll
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\bin\Debug\net6.0\SeminarHW3.pdb
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.dll
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\refint\SeminarHW3.dll
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.pdb
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\SeminarHW3.genruntimeconfig.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Seminars\SeminarHW3\obj\Debug\net6.0\ref\SeminarHW3.dll
