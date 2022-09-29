@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+string[] array = new string[5] {"0", "11", "123", "4444", "555555"};
+
